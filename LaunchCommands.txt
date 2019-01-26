@@ -1,0 +1,1 @@
+ -high -threads4 -nod3d9ex -nojoy -novid +mat_queue_mode 2 -freq 75 +cl_forcepreload 1
